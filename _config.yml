@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/komik" # the subpath of your site, e.g. /blog
 url: "http://postkomik.github.io/komik/"
 permalink: :title/
-full-url: "http://postkomik.github.io/komik/" # the base hostname & protocol for your site
+full-url: "" # the base hostname & protocol for your site
 
 
 # CSS
